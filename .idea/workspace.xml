@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b56ca37-5fb9-4f4c-8ada-daac485982a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JuanBytes_Backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0002_customuser_phone_number_alter_customuser_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0003_customuser_balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0004_transaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0005_notification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0006_notification_title_alter_notification_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0007_topuprequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0008_customuser_height_customuser_weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0009_customuser_bmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0010_canteen_food_foodcategory_order_food_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0011_foodcategory_foods_remove_food_category_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0012_remove_food_canteen_remove_foodcategory_foods_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0013_food_vendor_order_vendor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0014_order_is_paid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/0015_food_is_approved_featuredfood.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/base/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2jYGrBnDBMcPKIuJgt9PD1JCcn2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b56ca37-5fb9-4f4c-8ada-daac485982a3" name="Default Changelist" comment="" />
+      <created>1721556793154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721556793154</updated>
+      <workItem from="1721556794927" duration="10887000" />
+      <workItem from="1721610884697" duration="5871000" />
+      <workItem from="1721702183704" duration="2989000" />
+      <workItem from="1721747463634" duration="2213000" />
+      <workItem from="1721750288217" duration="239000" />
+      <workItem from="1721785947948" duration="12871000" />
+      <workItem from="1721955979432" duration="16133000" />
+      <workItem from="1722007492583" duration="768000" />
+      <workItem from="1722131213270" duration="19567000" />
+      <workItem from="1722177177118" duration="4715000" />
+      <workItem from="1722311981689" duration="12156000" />
+      <workItem from="1722400768711" duration="1199000" />
+      <workItem from="1722447404502" duration="867000" />
+      <workItem from="1722527768558" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="55" key="SettingsEditor" timestamp="1721557191271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1721557191271" />
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1722527898988">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1722527898988" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1722400768791" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backend/backend/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
